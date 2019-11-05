@@ -1,3 +1,146 @@
 <resources>
     <string name="app_name">SLI Insured Calculator</string>
+
+    <string-array name="installments">
+        <item>According to Yearly</item>
+        <item>According to Half Yearly</item>
+        <item>According to Quaterly</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- age of customer -->
+    <string-array name="age">
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+    </string-array>
+
+    <!-- all age rate data -->
+    <string-array name="ageRateForTenYears">
+        <item>118.0</item>
+        <item>118.1</item>
+        <item>118.2</item>
+        <item>118.3</item>
+        <item>118.4</item>
+        <item>118.5</item>
+        <item>118.6</item>
+        <item>118.8</item>
+        <item>118.9</item>
+        <item>119.2</item>
+        <item>119.4</item>
+        <item>119.7</item>
+        <item>120.0</item>
+        <item>120.4</item>
+        <item>120.8</item>
+        <item>121.2</item>
+        <item>121.7</item>
+        <item>122.3</item>
+        <item>122.9</item>
+        <item>123.6</item>
+        <item>124.3</item>
+        <item>125.1</item>
+        <item>126.0</item>
+        <item>127.0</item>
+        <item>128.0</item>
+        <item>129.2</item>
+        <item>130.4</item>
+    </string-array>
+
+    <string-array name="ageRateForFifteenYears">
+        <item>80.2</item>
+        <item>80.3</item>
+        <item>80.4</item>
+        <item>80.5</item>
+        <item>80.6</item>
+        <item>80.8</item>
+        <item>80.9</item>
+        <item>81.1</item>
+        <item>81.3</item>
+        <item>81.5</item>
+        <item>81.8</item>
+        <item>82.1</item>
+        <item>82.4</item>
+        <item>82.8</item>
+        <item>83.2</item>
+        <item>83.7</item>
+        <item>84.3</item>
+        <item>84.8</item>
+        <item>85.5</item>
+        <item>86.2</item>
+        <item>87.0</item>
+        <item>87.8</item>
+        <item>88.8</item>
+        <item>89.8</item>
+        <item>90.9</item>
+        <item>92.1</item>
+        <item>93.5</item>
+        <item>94.9</item>
+        <item>96.5</item>
+    </string-array>
+
+    <string-array name="ageRateForTweentyYears">
+        <item>61.3</item>
+        <item>61.4</item>
+        <item>61.5</item>
+        <item>61.6</item>
+        <item>61.7</item>
+        <item>61.8</item>
+        <item>61.9</item>
+        <item>62.1</item>
+        <item>62.2</item>
+        <item>62.4</item>
+        <item>62.6</item>
+        <item>62.9</item>
+        <item>63.2</item>
+        <item>63.5</item>
+        <item>63.9</item>
+        <item>64.3</item>
+        <item>64.7</item>
+        <item>65.2</item>
+        <item>65.8</item>
+        <item>66.4</item>
+        <item>67.1</item>
+        <item>67.8</item>
+        <item>68.6</item>
+        <item>69.5</item>
+        <item>70.5</item>
+        <item>71.6</item>
+        <item>72.7</item>
+        <item>74.0</item>
+    </string-array>
 </resources>
